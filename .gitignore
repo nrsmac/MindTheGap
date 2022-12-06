@@ -1,0 +1,5 @@
+.connection_url
+entries
+.DS_Store
+__pycache__/*
+db
